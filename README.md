@@ -1,16 +1,13 @@
 # coffe_ui
 
-A new Flutter project.
+Flutter Coffee UI Project.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+### Android: 
 
-A few resources to get you started if this is your first Flutter project:
+![PicApp - Samsung Galaxy S8 (1)](https://user-images.githubusercontent.com/93870340/193121009-f4318cc0-1f05-4d14-9236-256930299838.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ios: 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![PicApp - iPhone 8 Space Gray](https://user-images.githubusercontent.com/93870340/193121112-032afde1-59e4-4537-80be-2996aba90208.png)
